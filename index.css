@@ -13,7 +13,8 @@ body {
 }
 #title {
     color: #44aeea;
+    text-decoration: underline;
 }
-.link {
+a {
     color: #85beab;
 }
