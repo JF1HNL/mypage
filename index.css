@@ -1,0 +1,19 @@
+body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #c0cde9;
+    height: 100vh;
+    width: 100vw;
+}
+.box {
+    display: block;
+}
+#title {
+    color: #44aeea;
+}
+.link {
+    color: #85beab;
+}
