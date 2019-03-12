@@ -21,9 +21,10 @@ body {
 }
 #title {
     color: #44aeea;
-    font-size: 10vw;
+    font-size: 13vw;
     border-bottom: solid 3px;
 }
 a {
     color: #6490cd;
+    font-size: 5vw;
 }
