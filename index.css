@@ -17,14 +17,16 @@ body {
 .box {
     display: block;
     border: solid 3px #6490cd;
+    max-width: 85vmin;
+    max-height: 85vmin;
     padding: 10px;
 }
 #title {
     color: #44aeea;
-    font-size: 13vw;
+    font-size: 13vmin;
     border-bottom: solid 3px;
 }
 a {
     color: #6490cd;
-    font-size: 5vw;
+    font-size: 5vmin;
 }
